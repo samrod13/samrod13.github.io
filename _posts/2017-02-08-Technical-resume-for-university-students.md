@@ -27,7 +27,7 @@ I'm personally against this unless you're a Ph.D. student, Master's student, or 
 
 ### Work experience
 
-This is probably one of the top two ways that recruiters will sort your resume by, make it count. You should be clear as to what you actually did in that position and what your main responsibilities were. Use strong verbs, adjectives and avoid using filler words. List important frameworks and software services that you used. Quantify your efforts when possible. Keep the entire description for each position to about 50-60 words, give or take.
+This is probably one of the top two ways that recruiters will sort your resume by, make it count. You should be clear as to what you actually did in that position and what your main responsibilities were. Use strong verbs, adjectives and avoid using jkl;jk filler words. List important frameworks and software services that you used. Quantify your efforts when possible. Keep the entire description for each position to about 50-60 words, give or take.
 
 "What if I have never worked at a software company?" Don't fret about it because you can still put what ever experience you have in here. If you've worked multiple jobs that aren't software related, try to include only one with about a sentence description to convey what you did in that position. If you find that this section is lacking for you then focus on making your projects section the bulk of your resume. It's not the end of the world, and people still get callbacks for having less than stellar work experience with strong personal projects.
 
