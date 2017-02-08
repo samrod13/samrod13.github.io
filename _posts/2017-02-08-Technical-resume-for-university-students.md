@@ -55,4 +55,6 @@ This would also be the section where you would include any other languages that 
 
 Your resume is really a carefully shaped mirror that perfectly reflects what you know. It's not a mystery and it's not impossible to craft a good resume. I'm not guaranteeing that following these guidelines will land you an internship or full time position. This is based on my personal experience and what has worked for me. Take what you want, leave what you don't.
 
-- Sam
+
+
+Sam
