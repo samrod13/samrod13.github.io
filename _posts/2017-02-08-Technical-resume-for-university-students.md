@@ -13,6 +13,26 @@ A good resume is able to do three things effectively. **One**, it presents infor
 
 Simply structuring your resume correctly is the easiest thing that you can do to ensure that you have the best chance of getting a response. 
 
-## 
+## Breaking it down
+
+I will break down the essential parts of the resume and discuss my tips for each section.
+
+### Education
+
+In general, you should include your school, major(s), concentration, expected graduation date, and your gpa. If your gpa is less than stellar, simply omit it altogether. If you're a freshman or a sophomore, you can also include your high school information though keep the included information basic. Recruiters don't care you were 3-time President of the Debate Club or 2nd chair violin.
+
+### Objective
+
+I'm personally against this unless you're a Ph.D. student, Master's student, or you are applying for a purely research position for company. It wastes valuable space and doesn't really add anything meaninful to your application. Avoid it altogether and focus on improving other parts of your resume.
+
+### Work Experience
+
+This is probably one of the top two ways that recruiters will sort your resume by, make it count. You should be clear as to what you actually did in that position and what your main responsibilities were. Use strong verbs, adjectives and avoid using 
+
+
+
+
+
+
 
 
